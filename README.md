@@ -9,8 +9,8 @@
 ## 🌐 Connect with Me  
 
 [![Email](https://img.shields.io/badge/Email-amierzahin%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:amierzahin@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-amier-zahin-md-zamri-a92a8b125/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/amierzahin)  
 
 ---
 
